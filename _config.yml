@@ -30,7 +30,7 @@ twitter_username: TheDanielRudy
 github_username:  danrrudy
 
 # Build settings
-theme: Cayman
+remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-feed
 
