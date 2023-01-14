@@ -35,6 +35,7 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-paginate
+  - jekyll-data
 
 paginate: 10
 paginate_path: "/page:num/"
