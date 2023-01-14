@@ -34,10 +34,10 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
- # - jekyll-paginate
+  - jekyll-paginate
 
-#paginate: 10
-#paginate_path: "/page:num/"
+paginate: 10
+paginate_path: "/page:num/"
 
 
 # Exclude from processing.
