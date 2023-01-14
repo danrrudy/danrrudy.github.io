@@ -1,7 +1,7 @@
 ---
 title: "Splash Page"
 layout: splash
-permalink: /
+permalink: /splash
 date: 2023-01-13T19:47:41-04:00
 header:
   overlay_color: "#000"
