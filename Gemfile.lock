@@ -22,7 +22,7 @@ GEM
       ffi (>= 1.15.0)
     eventmachine (1.2.7)
     execjs (2.8.1)
-    faraday (2.7.2)
+    faraday (2.7.3)
       faraday-net_http (>= 2.0, < 3.1)
       ruby2_keywords (>= 0.0.4)
     faraday-net_http (3.0.2)
@@ -207,13 +207,6 @@ GEM
       jekyll (>= 3.5, < 5.0)
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
-    minimal-mistakes-jekyll (4.24.0)
-      jekyll (>= 3.7, < 5.0)
-      jekyll-feed (~> 0.1)
-      jekyll-gist (~> 1.5)
-      jekyll-include-cache (~> 0.1)
-      jekyll-paginate (~> 1.1)
-      jekyll-sitemap (~> 1.3)
     multi_json (1.15.0)
     nokogiri (1.14.0-x64-mingw-ucrt)
       racc (~> 1.4)
@@ -242,8 +235,7 @@ GEM
       faraday (>= 0.17.3, < 3)
     simpleidn (0.2.1)
       unf (~> 0.1.4)
-    terminal-table (1.8.0)
-      unicode-display_width (~> 1.1, >= 1.1.1)
+    terminal-table (1.6.0)
     typhoeus (1.4.0)
       ethon (>= 0.9.0)
     tzinfo (2.0.5)
@@ -253,7 +245,6 @@ GEM
     unf (0.1.4)
       unf_ext
     unf_ext (0.0.8.2-x64-mingw-ucrt)
-    unicode-display_width (1.8.0)
     wdm (0.1.1)
     webrick (1.7.0)
 
@@ -261,16 +252,14 @@ PLATFORMS
   x64-mingw-ucrt
 
 DEPENDENCIES
-  github-pages
-  http_parser.rb (~> 0.6.0)
+  github-pages (~> 227)
+  http_parser.rb
   jekyll-feed (~> 0.12)
-  jekyll-include-cache
-  jekyll-paginate
-  minimal-mistakes-jekyll
+  minima (~> 2.5)
   tzinfo (>= 1, < 3)
   tzinfo-data
   wdm (~> 0.1.1)
-  webrick (~> 1.7)
+  webrick
 
 BUNDLED WITH
    2.4.3
