@@ -4,3 +4,6 @@
 
 layout: home
 ---
+
+This will render above the post feed
+This is a [link to my CV](/cv)
