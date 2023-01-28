@@ -22,4 +22,4 @@ title: CV and Professional Work
     </li>
     {% endif %}
   {% endfor %}
-</ul>
+</ul>.
