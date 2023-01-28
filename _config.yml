@@ -21,8 +21,8 @@
 title: Dan Rudy
 email: danielrudy@pitt.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  A Personal Website. I’m a first-year student in Public Administration at the University of
-  Pittsburgh’s Graduate School of Public and International Affairs. My
+  A Personal Website for Daniel Rudy. I’m a first-year student in Public Administration at the University of
+  Pittsburgh’s Graduate School of Public and International Affairs (GSPIA). My
   professional interests are in state and local government, with an academic
   focus in strategic capital management.
 baseurl: "" # the subpath of your site, e.g. /blog
