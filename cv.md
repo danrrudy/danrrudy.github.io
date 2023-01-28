@@ -13,10 +13,10 @@ title: CV and Professional Work
   <div class="column"></div>
   <div class="column"></div>
 </div>
-## Updates on my work:
+## Updates on my work & projects:
 <ul>
   {% for post in site.posts %}
-  	{% if post.tags contains "work" %}
+  	{% if post.tags contains "Work" %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
