@@ -29,10 +29,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://danrrudy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: TheDanielRudy
 github_username:  danrrudy
-author:
-  name: Daniel Rudy
-  twitter: TheDanielRudy
-  email: danielrudy@pitt.edu
+author: Daniel Rudy
 
 # Build settings
 theme: minima
