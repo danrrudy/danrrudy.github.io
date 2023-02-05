@@ -18,7 +18,7 @@ For the next election, one of the other poll workers wrote in by hand osme addit
 Ahead of the November 2022 general, and with a bit more GIS experience under my belt, I decided to take another crack at it, asked for a list of polling place locations from the county, geocoded them onto a map of the voting districts, and hosted them in a searchable webapp through ArcGIS's instant apps.
 
 <!--![Polling Place Locator App](/assets/LocatorApp.png)-->
-<img align="left" width="40%" height="600" src="/assets/LocatorApp.png">
+<img align="left" width="40%" src="/assets/LocatorApp.png">
 With a little bit of tweaking and some fine-tuning, it was all up and running, with address search enabled. It didn't meet all my dreams, but it was good enough for a pilot run.
 \
 I went to the election with the app in hand, and after testing it with the first few voters that came in, shared it with the other 4 judges in the room. The more tech-savvy loved it, and while the others weren't as willing to use it, they still thought it was valuable (many of them just sent lost voters over to me!). Over the course of the day, I used it to locate the polling places for at least 30 voters with confidence, and the ones that did have to go to another building got a slip of paper with the address, an exepected but invaluable benefit. [Check out the Polling Place locator here!](http://arcg.is/15rbHn)\
