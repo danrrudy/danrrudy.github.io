@@ -17,4 +17,4 @@ We combined this map with the drilling locations in PA, rendered as a heatmap, a
 
 You can find our research poster below, which was presented to the Allegheny Mountain Section of the American Mathematical Association and the University of Pittsburgh Math department.
 
-<object data="/assets/BIG_Gas_to_Solar_2022_Poster.pdf" width="100%" type='application/pdf'></object>
+<object data="/assets/BIG_Gas_to_Solar_2022_Poster.pdf" width="100%" height="100%" type='application/pdf'></object>

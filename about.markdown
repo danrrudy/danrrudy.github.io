@@ -3,9 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
+<img align="left" width="40%" height="40%" src="/assets/Dan.jpg">
 {% for tag in site.tags %}
   <h3>{{ tag[0] }}</h3>
   <ul>
