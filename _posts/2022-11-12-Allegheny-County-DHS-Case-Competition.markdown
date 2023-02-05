@@ -3,7 +3,7 @@ layout: post
 title:  "Allegheny County DHS Case Competition"
 date:   2022-11-12 12:00:00 -0500
 categories: work
-tags: Work GIS
+tags: Work GIS Grad
 ---
 
 *this post was written in January 2023 and backdated to indicate the actual date of the event*

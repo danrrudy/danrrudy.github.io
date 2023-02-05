@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "Oil & Gas GIS Dashboard"
-date:   2022-04-20 11:51:59 -0500
-categories: jekyll update
+date:   2022-04-20 11:59:59 -0500
+categories: work
+tags: Work GIS Math Undergrad
 ---
 
 *this post was written in January 2023 and backdated to indicate the actual date of the event*
