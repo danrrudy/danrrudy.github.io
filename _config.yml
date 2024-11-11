@@ -21,10 +21,8 @@
 title: Dan Rudy
 email: danielrudy@pitt.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  A Personal Website for Daniel Rudy. I’m a first-year student in Public Administration at the University of
-  Pittsburgh’s Graduate School of Public and International Affairs (GSPIA). My
-  professional interests are in state and local government, with an academic
-  focus in strategic capital management.
+  A Personal Website for Daniel Rudy. I’m an incoming Ph.D. student in Public Administration and Policy at the University of
+  Georgia. My research is braodly focused on issues of government finance and capacity gaps.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://danrrudy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: TheDanielRudy
