@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-<img align="left" width="40%" height="40%" src="/assets/Dan.jpg">
+
 {% for tag in site.tags %}
   <h3>{{ tag[0] }}</h3>
   <ul>
