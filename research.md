@@ -10,3 +10,22 @@ permalink: /research/
 
 Myles Cramer, Matt Reynolds, Emmaline Rial, and **Daniel Rudy**. (2024). Justice Jargon: An Interdisciplinary Approach to Analyzing Police Collective Bargaining Agreements for Improved Transparency and Accountability. *Pitt Policy Journal*, 15, 78-99.
 
+## Works in Progress
+
+**Daniel Rudy** Small Towns, Big Differences - Administrative Capacity and Capital Spending in Municipal Government.
+Presented at:
+- ASPA International Young Scholars' Workshop 2024
+
+**Daniel Rudy**. Mind the Gap: The Impact of Municipal Staff on Cutback Management Strategies in Georgia. 
+Presented at:
+- ASPA 2025
+
+**Daniel Rudy**. The Impact of Federal Education Regulations on Teacher Turnover in Pennsylvania Schools.
+
+Kounghun Nam and **Daniel Rudy**. Managing Through Crisis - Understanding Personnel Stability in the States During Economic Downturns.
+Accepted for Presentation at:
+- PMRC 2025
+
+**Daniel Rudy** and Kounghun Nam. Machine Learning Meets Public Management - Reviving the Government Performance Project for Personnel Stability Insights.
+Accepted for Poster Presentation at:
+- PMRC 2025

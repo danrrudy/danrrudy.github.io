@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "8th International Young Scholars Workshop"
+date:   2024-12-13 12:00:00 -0500
+categories: work
+tags: Work Grad
+---
+From July 7-12, 2024, I attended ASPA's 8th International Young Scholars Workshop in Budapest, Hungary. I had the immense privlige to be invited to this workshop, along with 12 other young scholars from around the world. Over the course of a week, we heard presentations from the exceptional senior scholars, discussed the state of Public Administration as an evolving field, and got feedback on our own work, all set against the backdrop of Budapest from Corvinus University. 
+I presented a paper developed over the summer titled "Small Towns, Big Differences: Administrative Capacity and Capital Spending in Pennsylvania Municipalities". The draft version presented at the workshop is included below. This paper synthesized and refined several of the main ideas from my master's thesis, drawing links between measures of financial and administrative capacity and capital spending, with a special focus on how these relationships differ between large and small municipal governments. I received some excellent feedback from the other attendees, including my senior scholar mentor, Harvey White, and John Bartle, whose name I had read many times in my studies, but never had the pleasure to meet.
+Since July, I've been working to incorporate the feedback I received and prepare that paper for publication, and I aim to have it submitted for review in early 2025. Alongside that paper, I also hope to release the complete codebase to download, clean, and analyze the Census of Governments and Survey of Governments financial datasets, which have been instrumental in this and several other papers. 
+
+<object data="/assets/IYSWPaper_WorkshopVersion.pdf" width="750" height="475" type='application/pdf'></object>
+<div class="row">
+  <div class="column"></div>
+  <div class="column"></div>
+</div> 
